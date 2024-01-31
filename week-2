@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Emoji Layout</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<div class="emoji-container">
+  <div class="emoji-item">
+    <div class="emoji-wrapper">
+      <span class="emoji-image">
+💔</span>
+    </div>
+    
+    <div class="emoji-description">
+      <h3 style="text-decoration: underline;">heart broken</h3>
+      <p>The broken heart emoji is a visual representation of emotional pain or heartbreak. It's often used to convey feelings of sadness, disappointment, or a failed relationship. Despite its simplicity, this symbol has become widely recognized as a universal expression of heartache in digital communication.</p>
+      <button class="read-more-button">Read More</button>
+    </div>
+  </div>
+  
+  <div class="emoji-item">
+    <div class="emoji-wrapper">
+      <span class="emoji-image">☠️</span>
+    </div>
+    <div class="emoji-description">
+      <h3 style="text-decoration: underline;">skull cross bone emoji</h3>
+      <p> The skull and crossbones emoji ☠️ traditionally signifies danger, warning, or a toxic substance. It is commonly associated with symbols used on hazardous materials. In a more lighthearted context, it can also be used to convey a playful or mischievous vibe, depending on the conversation.</p>
+      <button class="read-more-button">Read More</button>
+    </div>
+  </div>
+  
+  <div class="emoji-item">
+    <div class="emoji-wrapper">
+      <span class="emoji-image">🍁</span>
+    </div>
+    <div class="emoji-description">
+      <h3 style="text-decoration: underline;">maple leaf</h3>
+      <p>.The maple leaf emoji  is a symbol of Canada, representing its natural beauty and national identity. Its vibrant red color and distinctive shape make it instantly recognizable. Canadians often use the maple leaf emoji to express pride and patriotism. </p>
+      <button class="read-more-button">Read More</button>
+    </div>
+  </div>
+ 
+  <div class="emoji-item">
+    <div class="emoji-wrapper">
+      <span class="emoji-image">💪</span>
+    </div>
+    <div class="emoji-description">
+      <h3 style="text-decoration: underline;">biceps</h3>
+      <p>A Arm flexing its muscles to showing power.</p>
+      <button class="read-more-button">Read More</button>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
